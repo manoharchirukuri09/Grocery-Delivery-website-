@@ -123,8 +123,11 @@ This project is licensed under the [MIT License](LICENSE).
 ## 10. Contact
 
 **Author:** Manohar Chirukuri
+---
 **Email:**  manoharchirukuri09@gmail.com
+---
 **GitHub:** https://github.com/manoharchirukuri09
+---
 **LinkedIn:** https://www.linkedin.com/in/manoharchirukuri/
 
 ---
